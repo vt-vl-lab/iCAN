@@ -1,8 +1,13 @@
 # --------------------------------------------------------
-# Tensorflow Faster R-CNN
+# Tensorflow iCAN
 # Licensed under The MIT License [see LICENSE for details]
-# Written by Zheqi He and Xinlei Chen
+# Written by Chen Gao, based on code from Zheqi he and Xinlei Chen
 # --------------------------------------------------------
+
+"""
+Modified to add tf 1.1.0 support
+"""
+
 from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function

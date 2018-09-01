@@ -1,7 +1,14 @@
+# --------------------------------------------------------
+# Tensorflow iCAN
+# Licensed under The MIT License [see LICENSE for details]
+# Written by Chen Gao, based on code from Yuliang Zou
+# --------------------------------------------------------
+
 # Download files from Google Drive with terminal
 # Credit: https://stackoverflow.com/questions/25010369/wget-curl-large-file-from-google-drive
 # Usage: python google_drive.py FILE_ID DESTINATION_FILENAME
 # How to get FILE_ID? Click "get sharable link", then you can find it in the end.
+
 import requests
 
 

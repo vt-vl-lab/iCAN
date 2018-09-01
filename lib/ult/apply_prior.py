@@ -1,3 +1,9 @@
+# --------------------------------------------------------
+# Tensorflow iCAN
+# Licensed under The MIT License [see LICENSE for details]
+# Written by Chen Gao
+# --------------------------------------------------------
+
 def apply_prior(Object, prediction):
     
     

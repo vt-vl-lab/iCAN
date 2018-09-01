@@ -1,3 +1,17 @@
+# --------------------------------------------------------
+# Tensorflow iCAN
+# Licensed under The MIT License [see LICENSE for details]
+# Written by Chen Gao
+# --------------------------------------------------------
+
+"""
+Generating training instance
+"""
+
+from __future__ import absolute_import
+from __future__ import division
+from __future__ import print_function
+
 import numpy as np
 import json
 import pickle

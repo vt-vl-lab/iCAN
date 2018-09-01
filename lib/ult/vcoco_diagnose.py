@@ -8,13 +8,15 @@
 # this file (or any portion of it) in your project.
 # ---------------------------------------------------------
 
-# vsrl_data is a dictionary for each action class:
-# image_id       - Nx1
-# ann_id         - Nx1
-# label          - Nx1
-# action_name    - string
-# role_name      - ['agent', 'obj', 'instr']
-# role_object_id - N x K matrix, obviously [:,0] is same as ann_id
+# --------------------------------------------------------
+# Tensorflow iCAN
+# Licensed under The MIT License [see LICENSE for details]
+# Written by Chen Gao, based on code from Saurabh Gupta
+# --------------------------------------------------------
+
+"""
+Error diagnose
+"""
 
 import numpy as np
 from pycocotools.coco import COCO

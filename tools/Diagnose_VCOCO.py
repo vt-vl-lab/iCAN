@@ -1,3 +1,14 @@
+# --------------------------------------------------------
+# Tensorflow iCAN
+# Licensed under The MIT License [see LICENSE for details]
+# Written by Chen Gao
+# --------------------------------------------------------
+
+"""
+Error diagnose of V-COCO detection. 
+"""
+
+
 from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function

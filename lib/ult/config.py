@@ -1,5 +1,11 @@
+# --------------------------------------------------------
+# Tensorflow iCAN
+# Licensed under The MIT License [see LICENSE for details]
+# Written by Chen Gao, modified from Zheqi he and Xinlei Chen's
+# --------------------------------------------------------
+
 from __future__ import absolute_import
-from __future__ import division
+from __future__ import divisions
 from __future__ import print_function
 
 import os

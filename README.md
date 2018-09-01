@@ -1,7 +1,7 @@
 # iCAN: Instance-Centric Attention Network for Human-Object Interaction Detection 
 
 Official TensorFlow implementation for [iCAN: Instance-Centric Attention Network 
-for Human-Object Interaction Detection](https://www.dropbox.com/sh/7yx3slrg8x10zdu/AAB1PYH1M0IdEPeKhS9wZ7mba/0017.pdf?dl=1).
+for Human-Object Interaction Detection](https://arxiv.org/abs/1808.10437).
 
 See the [project page](https://gaochen315.github.io/iCAN/) for more details. Please contact Chen Gao (chengao@vt.edu) if you have any questions.
 

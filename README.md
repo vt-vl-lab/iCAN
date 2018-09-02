@@ -23,7 +23,7 @@ This codebase was developed and tested with Python2.7, Tensorflow 1.1.0 or 1.2.0
     ./misc/download_dataset.sh 
     
     # Assume you cloned the repository to `iCAN_DIR'.
-    # If you have download V-COCO or HICO-DET dataset somewhere else, you can create a symlink
+    # If you have downloaded V-COCO or HICO-DET dataset somewhere else, you can create a symlink
     # ln -s /path/to/your/v-coco/folder Data/
     # ln -s /path/to/your/hico-det/folder Data/
     ```

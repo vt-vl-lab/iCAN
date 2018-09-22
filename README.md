@@ -1,7 +1,7 @@
 # iCAN: Instance-Centric Attention Network for Human-Object Interaction Detection 
 
 Official TensorFlow implementation for [iCAN: Instance-Centric Attention Network 
-for Human-Object Interaction Detection](https://www.dropbox.com/sh/7yx3slrg8x10zdu/AAB1PYH1M0IdEPeKhS9wZ7mba/0017.pdf?dl=1).
+for Human-Object Interaction Detection](https://arxiv.org/abs/1808.10437).
 
 See the [project page](https://gaochen315.github.io/iCAN/) for more details. Please contact Chen Gao (chengao@vt.edu) if you have any questions.
 
@@ -23,7 +23,7 @@ This codebase was developed and tested with Python2.7, Tensorflow 1.1.0 or 1.2.0
     ./misc/download_dataset.sh 
     
     # Assume you cloned the repository to `iCAN_DIR'.
-    # If you have download V-COCO or HICO-DET dataset somewhere else, you can create a symlink
+    # If you have downloaded V-COCO or HICO-DET dataset somewhere else, you can create a symlink
     # ln -s /path/to/your/v-coco/folder Data/
     # ln -s /path/to/your/hico-det/folder Data/
     ```

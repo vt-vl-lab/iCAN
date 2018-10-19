@@ -96,7 +96,7 @@ This codebase was developed and tested with Python2.7, Tensorflow 1.1.0 or 1.2.0
 Check ```tools/Visualization.ipynb``` to see how to visualize the detection results.
 
 ## Demo/Test on your own images
-0. To get the best performance, we use [Detection](https://github.com/facebookresearch/Detectron) as our object detector. For a simple demo purpose, we use [tf-faster-rcnn](https://github.com/endernewton/tf-faster-rcnn) in this section instead.
+0. To get the best performance, we use [Detectron](https://github.com/facebookresearch/Detectron) as our object detector. For a simple demo purpose, we use [tf-faster-rcnn](https://github.com/endernewton/tf-faster-rcnn) in this section instead.
 1. Clone and setup the tf-faster-rcnn repository.
     ```Shell
     cd $iCAN_DIR

@@ -1,3 +1,6 @@
+**iCAN is deprecated. Please see [DRG](https://github.com/vt-vl-lab/DRG), a stronger HOI detection framework in PyTorch.**
+
+
 # iCAN: Instance-Centric Attention Network for Human-Object Interaction Detection 
 
 Official TensorFlow implementation for [iCAN: Instance-Centric Attention Network 
